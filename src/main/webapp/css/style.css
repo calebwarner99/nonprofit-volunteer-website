@@ -1,0 +1,268 @@
+.orange {
+    background-color: #EB973F;
+}
+
+.navigation { 
+    display: flex;
+    height: 1.5em;
+    padding: 2em 0em 1em 0em;
+    line-height: 25px;
+    background-color: #EB973F;
+}
+
+.header {
+    background-color: #EB973F;
+    text-align: right;
+    margin-top: 6em;
+}
+
+.image-overlay {
+    width: 360px; 
+    height: 300px;
+    padding-bottom: 5em;
+    float: right;
+    margin: 0em;
+    position: absolute;
+    top: 10%;
+    transform: translateY(-10%);
+    transform: translateX(-100%);
+}
+
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: white; 
+}
+
+h1 {
+    font-size: 1.35em; 
+    font-family: 'Muli', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: 1.7em;
+    font-weight: 350;
+    color: white; 
+    padding-bottom: 0.2em;
+    text-align: left;
+}
+
+h3 {
+    font-size: 1.35em;
+    color: #545c6e;
+    line-height: 1em;
+    height: 1em;
+    width: 10em;
+    padding: 2em 0em 0.2em 0em;
+}
+
+h4 {
+    font-size: 1.4em;
+    font-weight: 335;
+    padding-bottom: 12em;
+    padding-top: 0.5em;
+    color: #e8e8e8;
+    text-align: left;
+    max-width: 25em;
+    line-height: 1.5em;
+}
+
+h5 {
+    font-size: 1.2em;
+    text-align: right; 
+    font-style: italic;
+    font-weight: 350;
+}
+
+h6 {
+    font-size: 1.4em;
+    font-weight: 335;
+    padding-bottom: 3em;
+    padding-top: 0.5em;
+    color: #e8e8e8;
+    text-align: left;
+    max-width: 25em;
+    line-height: 1.5em;
+}
+
+p {
+    font-size: 1em;
+    font-weight: 325; 
+}
+
+.imgtext {
+    line-height: 2em;
+    margin-left: 0em;
+    margin-right: 0em;
+    width: 17em;
+    height: 8.85em;
+    padding: 0em 0em 3.2em 0em;
+}
+
+.title {
+    color: #EB973F;
+    line-height: 1.5em;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-weight: 400;
+    font-size: 1.2em;
+}
+
+.info {
+    color: #757575;
+    line-height: 1.5em;
+    padding-top: 2em;
+    padding-bottom: 1.2em;
+}
+
+.info2 {
+    color: #6B451D;
+    line-height: 1.5em;
+}
+
+.info2:hover {
+    color: #6B451D;
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    border-radius: 10px;
+    text-transform: none;
+    border-style: none;
+    position: center;
+}
+
+button:hover {
+    background-color: #6B451D;
+    color: white;
+}
+
+.icon {
+    width: 220px; 
+    height: 220px;
+    padding-bottom: 5em;
+}
+
+.icon2 {
+    width: 260px; 
+    height: 260px;
+    padding-bottom: 1.5em; 
+}
+
+
+.clickme1 {
+    background-color: #B87732;
+    color: white;
+    font-weight: 350;
+    margin-left: 20em;
+    font-size: 0.9em;
+}
+
+.clickme2 {
+    background-color: #EB973F;
+    color: white;
+    font-weight: 350;
+    margin-top: 1em;
+    margin-left: 21em;
+    font-size: 1.3em;
+    width: 50%;
+    height: 3em;
+}
+
+.clickme3 {
+    background-color: #B87732;
+    color: white;
+    font-weight: 335;
+    margin-top: 1.5em;
+    margin-bottom: 9em;
+    margin-left: 30em;
+    font-size: 1.1em;
+    width: 40%;
+    height: 3em;
+}
+
+.bigbody {
+    height: 100%;
+    background-color: #EB973F;
+}
+
+table {
+    padding-left: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.table {
+	font-size: 1em;
+	color: #545c6e;
+    font-weight: 325;
+    padding-left: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+}
+
+td {
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 50px;
+}
+
+footer {
+    background-color: #6B451D;
+    color: #d1d1d1;
+    font-size: 0.85em;
+    font-weight: 300;
+    height: 10em;
+    line-height: 1.5em;
+    padding: 4em 0em 0em 1.75em;
+}
+
+form {
+    font-size: 1.1em;
+    text-align: left;
+    color: #757575;
+    line-height: 1.2em; 
+    padding: 3em 0em 1em 0em;
+}
+
+.clickme4 {
+	background-color: #B87732;
+    color: white;
+    font-weight: 335;
+	border-radius: 10px;
+    text-transform: none;
+    border-style: none;
+    position: left;
+}
+
+td {
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 50px;
+}
+.table {
+	font-size: 1em;
+	color: #545c6e;
+    font-weight: 325;
+    padding-left: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
